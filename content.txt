@@ -1,0 +1,132 @@
+    "title": "Delhi Technical Campus" , 
+    "content" : """Scholarships:  
+ 
+1) Over 450 students have received scholarships up to Rs. 3.3 cr  
+2) Scholarship schemes are divided into 3 categories based on annual fa mily income:  
+    Category 1: 100% financial assistance for income under Rs. 4 lakh and possessing  
+                the National Food Security card  
+    Category 2: 50% financial assistance for income up to Rs. 2.50 lakh  
+    Category 3: 25% financial assistan ce for income between Rs. 2.50 -6 lakh 
+3) Scholarships are also offered based on JEE ranking, 12th board result, and personal interview  
+4) Students get additional monetary benefits from the Delhi state government  
+ 
+Placements and Industry Partnerships:  
+ 
+1) Upcoming companies visiting campus for recruitment include Amazon, Grofers, Network 18,  
+   Cyber group, Appventures, Appsgardz, Mirketa  
+2) Experiential learning partnerships with companies like Oracle Academy, Autodesk, Amazon  
+   Web Services, CETPA INFO TECH, CISCO Networking Academy, Shape my Skills, NIIT, Halp Technologies.  
+ 
+University Accreditation:  
+ 
+1) IP University has accreditation from QS World Ranking, NAAC A++ rating and NIRF 74 ranking  
+2) AKTU does not have these accreditations  
+ 
+Transport and Hostel Facilities:  
+ 
+1) Transport facility available  
+2) Hostel options: Triple sharing 95k (non AC) / 1.1lac (AC), 5 days Triple sharing 74k / 85k,  
+   Double sharing 1.1 lac / 1.25 lac, Single room 1.5 lac / 1.65 lac  
+ 
+Fee Structure:  
+ 
+1) B.Tech course fee is 1,52,600 per year  
+ 
+Co-Curricular Societies:  
+ 
+1) Technical societies: GDSC, FOSS Club, ACM Student Chapter, Computer Engineering Student's  
+   Technical Association (CESTA), Random Solutions, Management Student's Society (MSS) , AI Renaissance , ACE  
+2) Cultural societies: Artistia Fine Arts Society, Conchord Music Club, Ameya Dance Society,  
+   Awaaz Publication Society  
+3) Other events like Hackat hon, Codethon are also organized  
+4) Leaders in Environment Action for the Future (LEAF) is another society  
+ 
+Campus Visit Invitation:  
+ 
+1) Invitation to visit the campus and explore the institute further  
+2) Request to schedule a visit to the college campu s 
+ 
+Events/Workshops/Technical Activities:  
+1) They continuously organize events, workshops, technical activities, seminars, webinars and  
+   more on trending technologies and research areas for better development of students.  
+2) They have well -equipped laboratories along with Project Lab, Mac Lab and Entrepreneurship  
+   Cell. 
+ 
+Academic Achievements:  
+ 
+1) Students have outperformed in academics and secured top ranks in their departments.  2) Examples: This year, Madhav Narang g ot a Gold Medal. Tamanna, a 2nd year CSE student,  
+   secured university 2nd rank.  
+3) Students have filed patents under the guidance of distinguished faculties.  
+ 
+Eligibility:  
+ 
+1) In engineering, B.Tech is offered in Computer Science Engineering, Computer  Science and  
+Technology, Artificial Intelligence and Machine Learning, and AI & Data Science.  
+2) Value -added courses are offered on IOT, SAP, Web development, Android development,  
+   Business development, Data Analytics, Data Science, AI, Machine Learning,  Django, Six Sigma  
+   & Life Skills.  
+3) MOU with i -STEP to provide International Master class/certificate courses on AI, Data Science,  
+   Cyber security and Entrepreneurship from Deakin University and UNSW University, Australia.  
+4) CODE-TANTRA platform is provided for developing coding skills from the first year and soft  
+   skills from the second year.  
+ 
+Placement:  
+ 
+1) Our highest placement is 24.6 LPA (Pragmatic Play), 2nd is 23 LPA (Vahan), 3rd is 20 LPA (Flat  
+   White Capital). Average is 6 -7 LPA with 100% placement assistance.  
+2) A dedicated Placement and Guidance cell helps students get placed in renowned companies  
+   like IBM, HCL, TCS, Cognizant, Deloitte Capgemini, Infosys, WIPRO, Amazon, Adobe etc.  
+3) The Un iversity provides opportunities at many renowned companies for students.  
+ 
+Other Benefits:  
+1) The Innovation Council / E -Cell is a hub of creativity and problem -solving. It's where students  
+   come together to turn ideas into reality.  
+2) Mentorship progra ms are offered with experienced innovators.  
+3) Access to workshops on design thinking, prototyping, and other essential skills.  
+4) The council sponsors regular competitions and Hackathons to challenge and bring ideas to  
+   life. 
+5) You'll receive expert gu idance on business planning, market research, and funding.  
+6) Industry leaders and potential investors are connected.  
+7) The E -Cell provides incubation spaces and resources to help startups take crucial first steps.  
+8) An entrepreneurship center, incubator, or innovation hub provides physical space,  
+   infrastructure, and resources for student startups.  
+9) Access to funding sources, grants, seed funding, angel investors, venture capitalists, or  
+   crowdfunding platfor ms is facilitated.  
+10) Legal and administrative support is provided.  
+11) A culture of collaboration and networking is fostered through events, entrepreneurship clubs,  
+    and industry -academia interactions.  
+12) Interdisciplinary collaboration is encouraged . 
+ 
+Provisional Fees for Academic Session 2024 -25: 
+ 
+1) B. Arch: Rs. 1,73,900/year  
+2) BCA: Rs. 1,16,500/year  
+3) B. Tech (CSE, CST, AI&DS, AI&ML): Rs. 1,52,600/year  
+4) LE B.Tech: Rs. 1,52,600/year  
+5) MBA: Rs. 1,63,700/year  
+The revised fee, if updated by the University/Govt. of NCT Delhi, shall be payable  
+accordingly. Value Added Courses will also be provided to students every year.  
+ 
+Hostel Notice for Academic Session 2024 -25: 
+ 
+1) Triple Share Non AC Room: Rs. 1,00,000  
+2) Triple Share AC Room: Rs. 1,20,000  
+3) Triple Share (5 Days): Rs. 80,000 Non AC, Rs. 90,000 AC  
+4) Double Share: Rs. 1,20,000 Non AC, Rs. 1,35,000 AC  
+5) Single Share AC: Rs. 1,75,000  6) DME Student Transport Charges: Rs. 36,000/year  
+Limited hostel seats are filled on a first -come, first -served basis. Students are advised  
+to book early to avoid disappointment.  
+ 
+Scholarship offered by Delhi Government after Admissions:  
+ 
+1) Category 1 (Beneficiary under National Food Security & possesses ration card): 60%  
+   Qualifying Aggregate Percentage, 100% Financial Assistance  
+2) Category 2 (Family income up to Rs. 2.50 Lakh p.a.): 60% Qualifying Aggregate Percentage,  
+   50% Financial Assistance  
+3) Category 3 (Family income above Rs. 2.50 Lakh p.a. but not exceeding Rs. 6 Lakh p.a.): 60%  
+   Qualifying Aggregate Percentage, 25% Financial Assistance  
+A 5% relaxation in qualifying aggregate percentage of marks will be allowed for  
+SC/ST category studen ts. Scholarships are also available for meritorious students.  
+Scholarships are offered based on examination results, class XII result, and JEE  
+MAINS score, along with a personal interview.  
+ 

@@ -1,0 +1,8 @@
+textwrap
+numpy
+pandas
+google.generativeai
+streamlit
+unicodedata
+pymupdf
+PyPDF2
